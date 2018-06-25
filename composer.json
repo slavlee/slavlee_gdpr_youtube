@@ -1,0 +1,28 @@
+{
+    "name": "slavlee/slavlee-gdpr-youtube",
+    "type": "typo3-cms-extension",
+    "description": "Slavlee GDPR YouTube replaces all occurances of YouTube Embeddings with a notification notice to comply for the latest GDPR law.",
+    "authors": [
+        {
+            "name": "Kevin Chileong Lee",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Slavlee\\SlavleeGdprYoutube\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Slavlee\\SlavleeGdprYoutube\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "slavlee_gdpr_youtube": "self.version",
+        "typo3-ter/slavlee-gdpr-youtube": "self.version"
+    }
+}

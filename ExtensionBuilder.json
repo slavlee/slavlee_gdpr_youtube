@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Slavlee GDPR YouTube replaces all occurances of YouTube Embeddings with a notification notice to comply for the latest GDPR law.",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.7.0-8.7.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "8.7.0-8.7.99",
+            "version": "1.0.0"
+        },
+        "extensionKey": "slavlee_gdpr_youtube",
+        "name": "Slavlee GDPR YouTube",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "Slavlee",
+                "email": "info@slavlee.de",
+                "name": "Kevin Chileong Lee",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Slavlee"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2018-06-24 01:13",
+        "extension_builder_version": "8.7.0",
+        "be_user": " (1)"
+    }
+}

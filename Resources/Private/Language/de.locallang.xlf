@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2018-02-18T12:02:17Z" product-name="slavlee_gdpr_youtube">
+		<header/>
+		<body>
+			<trans-unit id="youtube">
+				<target>YouTube Video Logo</target>
+			</trans-unit>
+			<trans-unit id="gdpr.youtube.notice">
+				<target><![CDATA[Das ist ein YouTube Video. Wenn Sie auf dieses Video klicken, dann erklären Sie sich mit der <a href="https://policies.google.com/privacy?hl=de" target="_blank">Datenschutzerklärung &amp; Nutzungsbedingungen</a> von Google und mit unseren <a href="%s" target="_blank">Datenschutzerklärungen</a> einverstanden.]]></target>
+			</trans-unit>
+			<trans-unit id="gdpr.vimeo.notice">
+				<target><![CDATA[Das ist ein Vimeo Video. Wenn Sie auf dieses Video klicken, dann erklären Sie sich mit den <a href="https://vimeo.com/cookie_policy" target="_blank">Cookie Nutzungsbedingungen</a> von Vimeo und mit unseren <a href="%s" target="_blank">Datenschutzerklärungen</a> einverstanden.]]></target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

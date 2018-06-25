@@ -1,0 +1,19 @@
+Version 1.2.6
+- [Maintenance] Dokumentationsordner umbenannt
+
+Version 1.2.5
+- [Maintenance] Depencies und Versionstatus angepasst
+
+Version 1.2.4
+- [Feature] Vimeo Videos werden nun ebenfalls entschärft.
+
+Version 0.1.3
+- [Feature] iFrames werden nun korrekt entschärt und jQuery Plugin erstellt, welches dieses iFrame nach Klick wieder einblendet
+- [Feature] Übersetzung der Texte in dt.
+- [Feature] Gestaltung YouTube Loader
+
+Version 0.0.2
+- [Feature] Wrapping und Entschärfung der YouTube iFrames implementiert
+
+Version 0.0.1
+- [Feature] Erstellung via Extension Builder

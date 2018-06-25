@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" version="1.1" viewBox="0 0 800.00001 800.00001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <mask id="e" maskUnits="userSpaceOnUse">
+   <circle cx="400" cy="652.36" r="400" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  </mask>
+  <mask id="f" maskUnits="userSpaceOnUse">
+   <circle cx="400" cy="400" r="400" color="#000000" color-rendering="auto" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  </mask>
+  <linearGradient id="d" x1="350.09" x2="77.051" y1="436.97" y2="669.82" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity=".42" offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -252.36)" fill-rule="evenodd" shape-rendering="auto">
+  <circle cx="400" cy="652.36" r="400" color="#000000" color-rendering="auto" fill="#1c8adb" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  <path transform="translate(0 252.36)" d="m230.09 280.8-221.61 221.61c43.776 185.93 157.81 241.63 278.4 285.18l283.03-283.03c-63.217-124.64-226.54-149.17-339.82-223.76z" color="#000000" color-rendering="auto" fill="url(#d)" image-rendering="auto" mask="url(#f)" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  <path d="m230.09 533.16v238.4h271.85v-74.908l67.964 60.27v-209.12l-67.964 67.964v-82.603h-271.85z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" mask="url(#e)" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>

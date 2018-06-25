@@ -1,0 +1,27 @@
+###################################################################
+# PLUGINS - START
+###################################################################
+plugin.tx_slavleegdpryoutube {
+	settings {
+		logo {
+			width = {$plugin.tx_slavleegdpryoutube.settings.logo.width}
+			height = {$plugin.tx_slavleegdpryoutube.settings.logo.height}
+		}
+		disable = {$plugin.tx_slavleegdpryoutube.settings.disable}
+		enablePrivacyMode = {$plugin.tx_slavleegdpryoutube.settings.enablePrivacyMode}
+		privacyPage = {$plugin.tx_slavleegdpryoutube.settings.privacyPage}
+	}
+}
+###################################################################
+# PLUGINS - END
+###################################################################
+
+###################################################################
+# PAGE - START
+###################################################################
+page.includeCSS.slavlee_gdpr_youtube = EXT:slavlee_gdpr_youtube/Resources/Public/Css/default.css
+page.includeJSFooterlibs.jquery = {$plugin.tx_slavleegdpryoutube.settings.jquery}
+page.includeJSFooterlibs.slavlee_gdpr_youtube = EXT:slavlee_gdpr_youtube/Resources/Public/Js/jquery.slavlee_gdpr_youtube.js
+###################################################################
+# PAGE - END
+###################################################################
