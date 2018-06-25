@@ -17,7 +17,7 @@ This plugin needs the following libraries:
 Please read the documentation for further explanations and tutorials on how to use this extension. 
 The documentation is located in the documentation folder and also can be found here:
 
-https://www.slavlee.de/de/support/dokumentation/slavlee-gdpr-youtube/
+https://www.slavlee.de/support/documentation/slavlee-gdpr-youtube/
 
 ## Privacy Note
 Slavlee Package does not create any cookies or save any personal data in the TYPO3 session.
